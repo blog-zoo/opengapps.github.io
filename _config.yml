@@ -1,5 +1,6 @@
 # Site settings
-url: http://opengapps.org
+url: ""
+baseurl: /opengapps.github.io
 title: The Open GApps Project
 description: OpenGApps.org offers information and pre-built packages of The Open GApps Project. The Open GApps Project is an open-source effort to script the automatic generation of up-to-date Google Apps packages. All Android versions and platforms supported.
 keywords: open gapps, opengapps, gapps, android, daily, arm, arm64, x86, x86_64, 4.4, 5.0, 5.1, 6.0, 7.0, 7.1, kitkat, lollipop, marshmallow, nougat, aroma, super, stock, full, mini, micro, nano, pico, tvstock
@@ -32,7 +33,7 @@ ga: Google Apps
 org: OpenGApps.org
 img: /images/
 apimg: /images/apple-icon-
-animg: \/images\/android-icon-
+animg: /images\/android-icon-
 color: '#009688'
 
 # Blog
